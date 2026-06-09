@@ -7,14 +7,14 @@ Registrar minha evolução nos estudos, organizar conceitos importantes e constr
 ## Temas estudados
 - Fundamentos de Hardware e Software
 - Fundamentos de redes
-- Endereçamento IP
-- DNS
-- DHCP
-- Gateway
-- Firewall
-- VPN
-- Segurança da informação
-- Phishing e engenharia social
+- Endereçamento IP (conceitos iniciais)
+- DNS (conceitos iniciais)
+- DHCP (conceitos iniciais)
+- Gateway (conceitos iniciais)
+- Firewall (conceitos iniciais)
+- VPN (conceitos iniciais)
+- Segurança da informação (conceitos iniciais)
+- Phishing e engenharia social (conceitos iniciais)
 
 ## Cursos e trilhas relacionados
 - Fundamentos de Hardware e Software
