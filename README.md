@@ -21,6 +21,7 @@ Registrar minha evolução nos estudos, organizar conceitos importantes e constr
 - Getting Started with Cisco Packet Tracer
 - Cisco Networking Basics
 - Estudos introdutórios em cibersegurança
+- Mulher Digital
 
 ## Método de organização
 Cada conceito será registrado com uma estrutura simples, utilizando minha adaptação do método Feynman. O objetivo é que a explicação seja simples, visual e que faça sentido com situações reais:
